@@ -24,6 +24,6 @@ function holidayCountdown(days, holiday) {
 // then I split up into separate functions in the test file which did not work and I don't understand it
 
 
-function holidayCountdownReverse(days, holiday) {
-  return `It's ${days} days until ${holiday}!`
-}
+// function holidayCountdownReverse(days, holiday) {
+//   return `It's ${days} days until ${holiday}!`
+// }
