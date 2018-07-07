@@ -21,7 +21,7 @@ function holidayCountdown(days, holiday) {
 //in lieu of
 //expect(holidayCountdown("Mother's Day", 20)).toEqual("It's 20 days until Mother's Day!")
 
-// then I split up into separate functions in the test file
+// then I split up into separate functions in the test file which did not work and I don't understand it
 
 
 function holidayCountdownReverse(days, holiday) {
